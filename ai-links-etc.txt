@@ -137,6 +137,7 @@ Ilya Sutskever
   "Deep learning via Hessian-free optimization" - James Martens (U of T)
   https://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf
   https://dl.acm.org/doi/10.5555/3104322.3104416
+  
   Sutskever remarks about this paper :  https://youtu.be/13CZPWmke6A?t=175
   10 layer network, no pre-training, supervised data
   Curvature ideas! "Pathological curvature".
