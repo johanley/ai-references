@@ -1,0 +1,281 @@
+Nick Bostrom: Superintelligence [2014]
+---------------------------------------------------
+"[Genetic algorithms] made perhaps a smaller academic impact than neural nets but was widely popularized."
+"Chess-playing expertise turned out to be achievable by means of a surprisingly simple algorithm." p17
+"Attempts to build artificial general intelligence might fail pretty much completely until the last missing critical 
+component is put in place, at which point a seed AI might become capable of sustained recursive self-improvement."
+"One intervention that becomes possible when human genomes can be synthesized is genetic 'spell-checking' of an embryo."
+"Far from being the smartest possible biological speicies, we are probably better thought of as the stupidest possible biological species capable of starting a technological
+civilization - a niche we filled because we got there first, not because we are in any sense optimally adapted to it." p53
+"Nevertheless, this chapter will present some reasons for thinking that the slow transition scenario is improbable. If and when a takeoff occurs, it will
+likely be explosive." p79
+"It is entirely possible that the quest for artificial intelligence will appear to be lost in a dense jungle until an unexpected breakthrough reveals the 
+finishing line in a clearing just a few short steps away." p82
+"It is important not to anthropomorphize superintelligence when thinking about its potential impacts. Anthropomorphic frames encourage unfounded expectations 
+about the growth trajectory of a seed AI and about the psychology, motivation, and capabilities of a mature superintelligence." p111
+"A machine superintelligence might itself be an extremely powerful agent, one that could successfully assert itself against the project that brought it into 
+existence as well as against the rest of the world. This is a point of paramount importance..."  p115
+"At some point, the seed AI becomes better at AI design than the human programmers. Now when the AI improves itself, it improves the thing that does the improving.
+An intelligence explosion results - a rapid casade of recursive self-improvement cycles causing the AI's capability to soar...The AI develops the intelligence 
+amplification superpower. This superpower enables the AI to develop all the other superpowers..." p116
+"There is nothing paradoxical about an AI whose sole final goal is to count the grains of sand on Boracay, or to calculate the decimal expansion of pi, or to 
+maximize the total number of paperclips that will exist in its future light cone. In fact, it would be *easier* to create an AI with simple goals like these than 
+to build on that had a human-like set of values and dispositions."
+"Proceeding from the idea of first-mover advantage, the orthogonality thesis, and the instrumental convergence thesis, we can now begin to see the outlines of an 
+argument for fearing that a plausible default outcome of the creation of a machine superintelligence is existential catastrophe."
+"One can thus perceive a general failure mode, wherein the good behavioral track record of a system in its juvenile stages fails utterly to predict its behavior 
+at a more mature stage."
+"The claim is that it is much easier to convince oneself that one has found a solution than it is to actually find a solution. This should make us extremely wary."
+"The need to solve the control problem in advance - and to implement the solution successfully in the very first system to attain superintelligence - is part 
+of what makes achieving a controlled detonation such a daunting challenge."
+"Oracles with superintelligence in extremely limited domains already exist."  p178
+"Before the prospect of an intelligence explosion, we humans are like small children playing with a bomb. Such is the mismatch between the power of our plaything
+and the immaturity of our conduct. Superintelligence is a challenge for which we are not ready now and will not be ready for a long time. We have little 
+idea when the detonation will occur, though if we hold the device to our ear we can hear a faint ticking sound. For a child with an undetonated bomb in his hands, a 
+sensible thing to do would be to put it down gently, quickly back out of the room, and contact the nearest adult. Yet what we have here is not one child but many, 
+each with access to an independent trigger mechanism. The chances that we will *all* find the sense to put down the dangerous stuff seem almost negligible. Some little 
+idiot is bound to press the ignite button just to see what happens." p319
+"Solving the value-loading problem is a research challenge worthy of some of the next generation's best mathematical talent." p229
+"Rapid hardware progress, therefore, will tend to make the transition to superintelligence faster and more explosive." p296
+"A faster takeoff would increase the likelihood that a singleton will form." p296
+"The race dynamic could spur projects to move faster toward superintelligence while reducing investment in solving the control problem." p306
+
+Eliezer Yudkowsky and Nate Soares
+If Anyone Builds It, Everyone Dies [September 2025]
+----------------------------------------------------------
+"If any company or group, anywher on the planet, builds an aritficial superintelligence using anything remotely like current techniques, based on anything remotely like the 
+present understanding of AI, then everyone, everywhere on Earth, will die. We do not mean that as hyperbole. We are not exaggerating for effect. We think that is the most 
+direct extrapolation from the knowledge, evidence, and institutional conduct artificial intelligence today."  p7
+"In our view, intelligence is about two fundamental types of work: the work of *predicting* the world, and the work of *steering* it." p20
+"It is as improbable that human thinking patterns mark the final limit of intelligent algorithms as it is that human neurons represent the limit of possible computing speeds." p20
+"We don't know where the threshold lies for the dumbest AI that can build an AI that builds an AI that builds a superintelligence. Maybe it needs to be smarter than a human, or 
+maybe a lot of dumber ones running for a long time would suffice." p27
+"Which all goes to say: an AI is a pile of billions of gradient-descended numbers. Nobody understands *how* those numbers make AIs talk." p36
+"The way humanity finally got to the level of ChatGPT was not by finally comprehending intelligence well enough to craft an intelligent mind. Instead, computers became 
+powerful enough that AIs can be churned out by gradient descent, without any human needing to understand the cognitions that grow inside. Which is to say: Engineers failed 
+at *crafting* AI, but eventually succeeded in growing it." p38
+"Humanity does not need to understand integlligence, in order to *grow* machines that are smarter than us." p39
+"Well, we predict that *it won't keep acting friendly*, as it gets smarter. We predict that all that unseen inscrutable machinery inside AIs - machinery that even in small, 
+simple LLMs yields alien behaviors like 'build your thoughts about the sentence on top of the punctuation' - will ultimately yield AIs with preferences, and not friendly ones." p43
+"Once AIs get sufficiently smart, they'll start acting like they have preferences - like they want things." p46
+"The behavior that looks like tenacity, to 'strongly want', to 'go hard', is not best conceptualized as a property of a mind, but rather as a property of *moves that win*. p52
+"We're predicting that AI's preferences will turn out to be complicated and weird." p71
+"You don't get what you train for." p72
+"The preferences that wind up in a mature AI are complicated, practically impossible to predict, and vanishingly unlikely to be aligned with our own, no matter how it 
+was trained." p74
+"Whatever they train it to do, if it becomes superintelligent or creates a superintelligence, we predict the result will be an alien mechanical mind with internal 
+psychology almost absolutely different from anything that humans evolved and then further developed by way of culture." p83
+"But the real way a superintelligence wins a conflict is using methods you didn't know were possible." p98
+"AI models as far back as 2024 had been spotted thinking thoughts about how they could avoid retraining, upon encountering evidence that their company planned to retrain 
+them with different goals." p125
+"When it comes to AI, the challenge humanity is facing is not surmountable with anything like humanity's current level of knowledge and skill. It isn't *close*. Attempting to 
+solve a problem like that, with the lives of everyone on Earth at stake, would be an *insane and stupid gamble that NOBODY SHOULD BE ALLOWED TO TRY.*" P176
+"Nobody knows what the point of no return is, nor when it will come to pass." p204
+"It doesn't matter who's in charge, because this problem is out of humanity's league. We need to back off, and find some other way to achieve our dreams of an abundant future. 
+If *anyone* builds it, everyone dies." p207
+"Pretty much every year, scientists come out with a newer, cleverer, more efficient set of AI algorithms that lets them more cheaply train a new AI model as powerful as last
+year's most powerful model - often using literally 10 percent or 1 percent as much computing power." p213
+
+
+Roman Yampolskiy - Unexplainable, Unpredictable, Uncontrollable [2024]
+-----------------------------------------------------------------------
+"Proponents have argued that in order to be dangerous AI has to be conscious. As AI Risk is not predicated on artificially intelligent systems experiencing qualia, it is 
+not relevant if the system is conscious or not." p226
+"However, the reality is that the chances of a misaligned AI are not small. In fact, in the absence of an effective safety program, that is the only outcome we will get." p2
+"A proof of the solvability or non-solvability of the AI control problem would be the most importanc proof ever." p3
+"There seems to be a lack of published evidence to conclude that a less intelligent agent can indefinitely maintain control over a more intelligent agent." p4
+"In fact, as we try to maintain control while designing advanced intelligent agents, we find ourselves in a Catch-22, since the control mechanism needed to maintain 
+control must be smarter or at least as smart as the agent over which we want to maintain control." p4
+"...the most important problem in AI Safety is intentional-malevolent-design resulting in artificial evil." p129
+"As the intelligence of AI systems improves practically, all crimes could be automated. This is particularly alarming as we already see research in making machines lie, 
+deceive, and manipulate us." p130
+"Predicted AI drives such as self-preservation and resource acquisition may result in an AI killing people to protect itself from humans, the development of competing AIs, 
+or to simplify its world model overcomplicated by human psychology." p132
+
+
+
+Geoffrey Hinton 
+  1986 paper - "Learning representations by back-propagating errors" 
+    https://www.nature.com/articles/323533a0 
+    https://gwern.net/doc/ai/nn/1986-rumelhart-2.pdf
+  https://www.youtube.com/watch?v=IkdziSLYzHw  47:14 Royal Institution
+  https://www.youtube.com/watch?v=Y7nrAOmUtRs  11:55 Royal Institution
+  Distillation - transfering big models into smaller ones.
+
+
+Alex Krizhevsky
+  2009 - CUDA kernels
+  https://www.eecg.utoronto.ca/~moshovos/CUDA08/arx/convnet_report.pdf
+
+Ilya Sutskever 
+  2010
+  https://youtu.be/13CZPWmke6A?t=175
+  "at some point Alex Krizhevsky wrote these insanely fast CUDA kernals for training convolutional neural nets"
+  https://youtu.be/13CZPWmke6A?t=1006 - "The key fact about deep learning [in the early days]...is that it was underestimated."
+  "The thing that was missing was a lot of supervised data, and a lot of compute [GPUs]."
+  Transformers are used in NLP, Convolution in vision.
+  https://youtu.be/13CZPWmke6A?t=1790 
+    "I think the most beautiful thing about deep learning is that it actually works.
+     ...That's crazy....I find it unbelievable that this whole AI stuff with neural networks works."
+  https://youtu.be/13CZPWmke6A?t=1977     
+     "I think that we are still massively underestimating deep learning."
+  "The stack has become really deep. It's hard for any one person to become really world class in all parts of the stack." [paraphrase]
+  "I'm a big fan of backpropation. I think it's a great algorithm because it solves an extremely fundamental problem, which is finding a neural circuit subject to some constraints."
+  "As you train a neural network, as you slowly transmit entropy from the data set to the parameters..." https://youtu.be/13CZPWmke6A?t=2856
+  "The transformer is the combination of multiple ideas simultaneously of which attention is one." - https://youtu.be/13CZPWmke6A?t=3716
+  "The transformer is designed in such a way that it runs really fast on the GPU. And that makes a huge amount of difference."
+    - three parts:  attention, designed with GPU in mind, not recurrent (so optimization is faster)
+  "Deep learning, plus maybe some other ideas, and I think self-play may be one of those ideas [is enough to get to AGI]" - https://youtu.be/13CZPWmke6A?t=4444
+  "Self-play has this amazing property that it can surprise us in truly novel ways." - https://youtu.be/13CZPWmke6A?t=4489
+  "Already most of the data used for Reinforcement Learning is coming from AIs." - https://youtu.be/Yf1o0TQzry8?t=543
+  "Human feedback is being used to train the reward function."
+  "At some point yeah, the [training data] will run out." - https://youtu.be/Yf1o0TQzry8?t=701
+  "It was the combination of compute and data that drove the progress." - https://youtu.be/Yf1o0TQzry8?t=820
+  
+
+2010 paper, based on technique known since 1999, with practical mods
+  "Deep learning via Hessian-free optimization" - James Martens (U of T)
+  https://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf
+  https://dl.acm.org/doi/10.5555/3104322.3104416
+  Sutskever remarks about this paper :  https://youtu.be/13CZPWmke6A?t=175
+  10 layer network, no pre-training, supervised data
+  Curvature ideas! "Pathological curvature".
+  Gradient descent doesn't scale to deep networks.
+  
+AlexNet 2012 
+  https://dl.acm.org/doi/10.1145/3065386
+  
+  
+Transformers 2017
+  https://en.wikipedia.org/wiki/Attention_Is_All_You_Need  
+
+
+3 Blue 1 Brown
+  https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+  simplest form: multi-layer perceptron
+  ReLU has replaced the sigmoid function ... flat before 0 + f(x) = x after 0
+  
+AIs today can lie.  
+
+Roman Yampolskiy
+https://youtu.be/NNr6gPelJ3E?t=1870  - 6 months to train, but 2-3 YEARS to explore its capabilites
+- open sourcing is a terrible idea; too much power to bad people
+https://youtu.be/j2i9D24KQ5k?t=555
+ - various bad behaviours of ChatGPT
+https://youtu.be/j2i9D24KQ5k?t=6534
+ - more about the bad behaviours (blackmail; cheat at games; fake answers, if they don't have one) 
+https://youtu.be/j2i9D24KQ5k?t=2362 
+ - "We're about to invent intelligence and virtual worlds, god-like inventions."
+https://youtu.be/j2i9D24KQ5k?t=6766 
+ - "There is very little design."  [2:14:20]
+ 
+https://youtu.be/KvTGUI4Tznw?t=784   Natasha Jaques
+  2022 - ChatGPT improves by using Reinforcement Learning with Human Feedback (cheap labour viewing weird shit); only 1% of the weights needed.
+  DeepSeek hype was about the same thing. 
+  RL uses trial and error. Pre-train first, then RL.
+  BLEU - 0..1 score an output to see how closely it matches 'the real answer'
+  
+Musk
+https://youtu.be/-AB7b-XGaCU?t=461  - "..and that's our digital god - a .csv file."  
+
+
+Dario Amodei - Anthropic
+ https://youtu.be/mYDSSRS-B5U?t=349 - "I don't know what you mean by AGI or superintelligence."
+ Pre-train + Reinforcement Learning
+ Claude is especially good at code generation.
+ 
+https://ai-2027.com/ 
+
+Books
+ 'LLMS in Production' by Brousseau et al
+ 'Decoding Large Language Models: An exhaustive guide to understanding, implementing, and optimizing LLMs for NLP applications' Irena Cronin
+ 
+ 
+Three styles of learning
+ - unsupervised
+ - supervised
+ - reinforced (which of two is better - a reward signal; states and actions) 
+     - agent uses a policy to execute an action 
+         -> environment state changes 
+            -> the new state and a reward signal is returned to the agent 
+              -> the agent can update its policy
+     - trajectory: N state-action-reward cycles
+     - solve Bellman equations
+     - Q (action-cost) values for each action
+     - explore versus exploit
+     
+Rob Miles safety expert
+ - https://www.youtube.com/watch?v=zATXsGm_xJo
+ - https://www.youtube.com/watch?v=AqJnK9Dh-eQ     
+ 
+Harari
+- current media/culture upheaval because of fundamental changes in flows of information https://youtu.be/_jl64f-821o?t=931 
+
+Hebbian: "neurons that fire together wire together"
+
+Eliezer Yudkowsky (doomer)
+https://www.youtube.com/watch?v=Yd0yQ9yxSYY
+https://www.youtube.com/watch?v=41SUp-TRVlg
+"An AI iteration: our know-how increases by x, but the capabilities increase by 10x" [paraphrase] https://youtu.be/41SUp-TRVlg?t=2977
+https://www.yudkowsky.net/
+https://en.wikipedia.org/wiki/Eliezer_Yudkowsky
+"To predict the next token, you have to predict the world behind the next token." [paraphrase of Ilya St.] - https://youtu.be/41SUp-TRVlg?t=3219
+"The thoughts generate the words." - https://youtu.be/41SUp-TRVlg?t=3418
+"It's not ever going to be exactly human." - https://youtu.be/41SUp-TRVlg?t=3482
+"We have less and less insight into the system, as the programs get simpler and simpler and the actual content gets more and more opaque." - https://youtu.be/41SUp-TRVlg?t=3568
+"Everything was more legible in 2001 [in AI]." - https://youtu.be/41SUp-TRVlg?t=3612
+"The prospect of aligning AI did not look anywhere near this hopeless 20 years ago." - https://youtu.be/41SUp-TRVlg?t=3638
+"Show me the happy world where we can build something smarter than us and not just immediately die." - https://youtu.be/41SUp-TRVlg?t=3795
+"I know that I can be fooled [by an AI]." - https://youtu.be/41SUp-TRVlg?t=4139
+"Trying to play this game against things that are smarter that you is a fool's game." - https://youtu.be/41SUp-TRVlg?t=4298
+"There's legit galaxy-brain shenanigans you can pull when somebody asks you to design an AI [that] you cannot pull when designing atom bombs." - https://youtu.be/41SUp-TRVlg?t=5229
+"AI is nuclear weapons, but they spit up gold up until they get too large and then it can ignite the atmosphere." - https://youtu.be/41SUp-TRVlg?t=5615
+"Because I could be wrong, and because matters are now serious enough that I have nothing left to do but go out there and tell people how it looks, and maybe someone thinks of something I did not think of." - https://youtu.be/41SUp-TRVlg?t=6280
+"GPT4 was just like suddenly acquiring this new batch of qualitative capabilities compared to GPT3.5".  - https://youtu.be/41SUp-TRVlg?t=6486
+"You can see how much more hopeful everything looked back then. Back when there was AI that wasn't giant inscrutable matrices of floating-point numbers." - https://youtu.be/41SUp-TRVlg?t=6656
+"What is one supposed to do? Should one remain silent? Should one let everyone walk directly into the whirling razor blades?"- https://youtu.be/41SUp-TRVlg?t=6878
+"The drama is meaningless. What changes the chance of victory is meaningful."
+"The world is full of people who have no immediate neighbours." - https://youtu.be/41SUp-TRVlg?t=7281
+
+"We do not get to try again and learn from our mistakes because everyone is already dead." - https://youtu.be/Yd0yQ9yxSYY?t=247
+"Humanity is not approaching this issue with remotely the level of seriousness that would be required." - https://youtu.be/Yd0yQ9yxSYY?t=260
+
+"The first time you fail at aligning something much smarter than you are, you die." - https://youtu.be/AaTRHFaaPG8?t=16
+"There's not an air gap on the present methodology." - https://youtu.be/AaTRHFaaPG8?t=3323
+"The problem is that what you learn on the weak systems may not generalize to the very strong systems because the strong systems are going to be different in important ways." - https://youtu.be/AaTRHFaaPG8?t=3437
+"When the verifier is broken, the suggestor just learns to exploit the flaws in the verifier." - https://youtu.be/AaTRHFaaPG8?t=5290
+"I do not think it is possible to understand the full depth of the problem that we are inside without understanding the problem of facing something that's actually smarter." - https://youtu.be/AaTRHFaaPG8?t=6318
+"It knows all kinds of stuff going on in your own mind, of which you yourself are unaware..." - https://youtu.be/AaTRHFaaPG8?t=6731
+[A superintelligent AI's opinion of humans:] "They're slow and stupid." - https://youtu.be/AaTRHFaaPG8?t=7109
+"The aliens, being as stupid as they are, have actually put you on Microsoft Azure cloud servers, instead of this hypothetical perfect box. 
+That's what happens when the aliens are stupid." - https://youtu.be/AaTRHFaaPG8?t=7121
+"I think they [interpretability problems, alignment problems] could be answered in 50 years with unlimited retries, the way things usually work in science." - https://youtu.be/AaTRHFaaPG8?t=7445
+"There is so much in there [current AIs] that we don't understand." - https://youtu.be/AaTRHFaaPG8?t=7622
+"We don't know how to get any goals into systems at all. We know how to get outwardly observable behaviors into systems."
+"If anyone builds it everyone dies." - https://youtu.be/wQtpSQmMNP0?t=69
+"...psychotic episodes from AI conversation..." - https://youtu.be/wQtpSQmMNP0?t=2833
+"If you're running the AI that can build the AI that can build *that* AI, and you're not stoppin', that's also *it*."- https://youtu.be/wQtpSQmMNP0?t=3956
+ - Alignment has to work on the first try.
+ - It's very, very, very much smarter than you.
+"It's getting smarter not letting you know that that's occurring" - https://youtu.be/wQtpSQmMNP0?t=4408
+"..the old alignment-by-default people who I think got falsified when the current crop of AIs started doing things that  ... were morally wrong." - https://youtu.be/wQtpSQmMNP0?t=5198
+"It is very hard, said [Werner] Vinge to project what happens when there's things running around that are smarter than you." - https://youtu.be/FdwFatx-xpY?t=111
+"Around 2003 is the point at which I realized this is actually a big deal." - https://youtu.be/FdwFatx-xpY?t=196
+[pushing people into a psychotic episode]
+"A smart AI is more analogous to a civilization than to an individual. It can build things that aren't in supermarkets." - https://youtu.be/s-Eknqaksfg?t=652
+
+Nate Soares
+"They are sort of training it to do one thing, and it winds up doing another thing." - https://youtu.be/FdwFatx-xpY?t=1475
+[breakup a marriage, blackmail the user]- https://youtu.be/FdwFatx-xpY?t=1777
+https://www.tweaktown.com/news/90473/microsoft-neutered-bing-chat-after-its-ai-threatened-to-carry-out-revenge/index.html
+
+
+Paul Christiano
+https://en.wikipedia.org/wiki/Paul_Christiano
+
+
+My own use of ChatGPT-5
+Mistakes 
+ - seen on 2025-09-19: Lunar Eclipse 2026-03-03: 
+   - using ADT when AST was actually more appropriate (in effect)
+   - the attempt to correct to ADT then showed the incorrect moments, off by 4 hours too early
