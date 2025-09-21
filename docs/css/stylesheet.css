@@ -3,15 +3,6 @@
 body {
    background-color: rgb(230,230,230);
 }
-a {
- color: rgb(0,100,26); 
-}
-a:hover {
-  background-color:rgb(164,255,158); 
-}
-a:visited {
- color: rgb(0,150,26); 
-}
 .opening-quote {
   background-color: rgb(85%, 85%, 85%);
   border-top: 1px solid rgb(50%,50%,50%);
