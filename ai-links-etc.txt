@@ -215,11 +215,11 @@ Harari
 Hebbian: "neurons that fire together wire together"
 
 Eliezer Yudkowsky (doomer)
+https://www.yudkowsky.net/
+https://en.wikipedia.org/wiki/Eliezer_Yudkowsky
 https://www.youtube.com/watch?v=Yd0yQ9yxSYY
 https://www.youtube.com/watch?v=41SUp-TRVlg
 "An AI iteration: our know-how increases by x, but the capabilities increase by 10x" [paraphrase] https://youtu.be/41SUp-TRVlg?t=2977
-https://www.yudkowsky.net/
-https://en.wikipedia.org/wiki/Eliezer_Yudkowsky
 "To predict the next token, you have to predict the world behind the next token." [paraphrase of Ilya St.] - https://youtu.be/41SUp-TRVlg?t=3219
 "The thoughts generate the words." - https://youtu.be/41SUp-TRVlg?t=3418
 "It's not ever going to be exactly human." - https://youtu.be/41SUp-TRVlg?t=3482
