@@ -280,3 +280,20 @@ Mistakes
  - seen on 2025-09-19: Lunar Eclipse 2026-03-03: 
    - using ADT when AST was actually more appropriate (in effect)
    - the attempt to correct to ADT then showed the incorrect moments, off by 4 hours too early
+
+
+--Joscha Bach--
+Regardless of how optimistic we are about the mind-like structure or the potential of LLMS, I think it's somewhat clear that
+they are able to answer the question of 'what does it mean to mean something?' 
+Because meaning is the reference to a model, to an integrated model of reality.
+An the interesting thing is that the LLM is able to build an integrated model of the entirety of the universe.
+https://youtu.be/XcNlv9gp20o?t=3860
+
+Both sides, I think, agree, in the sense that that LLMS are not the way in which the mind works, the human mind.
+It's only something that happens to work very well, to extract structure from textual data.
+https://youtu.be/XcNlv9gp20o?t=4083
+
+It would be surprising if there are not some similarities in the structure that the LLM is discovering and in the structure that the brain is discovering
+at a certain level of coarse-graining, at a certain level of abstraction. 
+We find this with vision for instance.
+https://youtu.be/XcNlv9gp20o?t=4323
