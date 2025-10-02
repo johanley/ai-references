@@ -285,13 +285,17 @@ idiot is bound to press the ignite button just to see what happens." p319
   <P>It was the combination of compute and data that drove the progress.
   <a href='https://youtu.be/Yf1o0TQzry8?t=814'>link</a>
 
-<h2>Geoffrey Hinton and others</h2>
+<h2>Geoffrey Hinton</h2>
 <ul> 
  <li>Rumelhart, D., Hinton, G. & Williams, R. <em><a href='https://doi.org/10.1038/323533a0'>Learning representations by back-propagating errors</a>.</em> Nature 323, 533–536 (1986). 
  Link to <a href='https://gwern.net/doc/ai/nn/1986-rumelhart-2.pdf'>PDF</a>.
  <li><a href='https://www.youtube.com/watch?v=IkdziSLYzHw'>Royal Institution lecture</a>, 2025-07-22 
  <li><a href='https://www.youtube.com/watch?v=Y7nrAOmUtRs'>Royal Institution Q&A</a>, 2025-08-26
 </ul>
+
+<P>[Philosophers] didn't have the Feynman concept of understanding the mind - that you need to figure out how to build one to understand it. 
+(Quoted in <em>Why Machines Think</em>, page 303.)
+
 
 <h2>3 Blue 1 Brown</h2>
 <a href='https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi'>Playlist</a> of introductory tutorials on neural nets.
@@ -452,13 +456,25 @@ right now, [it] all starts with ADALINE." p94
 <P>The NN [nearest neighbor] algorithm functions at the other extreme. All one has is data, and the algorithm makes barely any assumptions about, and indeed has little 
 knowledge of, the underlying distributions. p163
 
+<P>Understanding the essence of such a computation requires delving into physics, this time physics of ferromagnetism and a simlplified mathematical model of it [the Ising model]
+The parallels to computing with neurons are striking. p245 
+
+<P>"Nobody could do backprop on any interesting problem in [the 1970s]. You couldn't possibly develop backprop empirically," Hopfield said. p251
+
+<P>If a network requires more than two weight matrices (one for the output layer and one for each hidden layer), then it's called a deep neural network: the greater the number of
+hidden layers, the deeper the network. [In other words, at least two hidden layers] p283
+
+
+<P>Viewed through our mathematical lens, deep neural networks have thrown up a profound mystery: As they have gotten bigger and bigger, standard ML theory has 
+struggled to explain why these networks works as well as they do. p380
+
+<P>In the time-honored tradition of serendipitous scientific discoveries, the team had stumbled upon a strange, new property of deep neural networks that they 
+called "grokking," a word invented by the American author Robert Heinlein in his book <em>Stranger in a Strange Land</em>. p383
+
+<P> [Deep neural nets] have way too many parameters relative to the instances of training data: They are said to be over-parameterized; they should overfit and should 
+not generalize well to unseen test data. Yet they do. Standard ML theory can no longer adequately explain why deep neural networks work so well. p392
+
 <P>
-
-
-
-
-
-
 
 
 
@@ -483,7 +499,7 @@ knowledge of, the underlying distributions. p163
  <li>Rumelhart, D., Hinton, G. & Williams, R. <em><a href='https://doi.org/10.1038/323533a0'>Learning representations by back-propagating errors</a>.</em> Nature 323, 533–536 (1986). 
  <a href='https://gwern.net/doc/ai/nn/1986-rumelhart-2.pdf'>PDF</a>. 
  
- <li>James Martens. 2010. <a href="https://dl.acm.org/doi/10.5555/3104322.3104416"><em>Deep learning via Hessian-free optimization.</em></a> 
+ <li>James Martens, 2010. <a href="https://dl.acm.org/doi/10.5555/3104322.3104416"><em>Deep learning via Hessian-free optimization.</em></a> 
  In Proceedings of the 27th International Conference on International Conference on Machine Learning (ICML'10). Omnipress, Madison, WI, USA, 735–742.
  <a href='https://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf'>PDF</a>.
  Sutskever's <a href='https://youtu.be/13CZPWmke6A?t=175'>remarks</a> on this paper: pathological curvature; gradient descent doesn't scale to deep networks.
@@ -491,6 +507,7 @@ knowledge of, the underlying distributions. p163
   <li><a href='https://arxiv.org/abs/1706.03762'>Attention Is All You Need</a> - transformers paper, 2017.
   <li><a href='https://dl.acm.org/doi/10.1145/3065386'>AlexNet</a> 2012. An early success with deep learning.
   <li><a href='https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf'>The Bitter Lesson</a>, an article by Rich Sutton: in the long run, learning and search beat expert systems.
+  <li>Hopfield, 1982. <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC346238/'>Neural networks and physical systems with emergent collective computational abilities</a>.
 </ul>
 
 
