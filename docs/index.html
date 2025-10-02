@@ -284,6 +284,10 @@ idiot is bound to press the ignite button just to see what happens." p319
   
   <P>It was the combination of compute and data that drove the progress.
   <a href='https://youtu.be/Yf1o0TQzry8?t=814'>link</a>
+  
+  <P>What we've done was to show that double descent occurs for pretty much all practical deep learning systems.
+  <a href='https://youtu.be/W_TAKJRgrbs?t=5'>link</a>
+  
 
 <h2>Geoffrey Hinton</h2>
 <ul> 
@@ -474,7 +478,22 @@ called "grokking," a word invented by the American author Robert Heinlein in his
 <P> [Deep neural nets] have way too many parameters relative to the instances of training data: They are said to be over-parameterized; they should overfit and should 
 not generalize well to unseen test data. Yet they do. Standard ML theory can no longer adequately explain why deep neural networks work so well. p392
 
-<P>
+<P>Even when the noise affected about 5 percent of the dataset or more, the performance of both kernel machines and neural nectworks didn't degrade as expected.
+"As you increase the noise level, nothing really breaks," Belkin said. p396
+
+<P>...the ReLU function is not differentiable at <em>x=0</em>. Its derivative at <em>x=0</em> can be taken to be 0, 1, or 0.5. p399
+
+<P>And as these networks become bigger, their behavior continues to challenge our traditional understanding of machine learning, particularly 
+the landscape of the bias-variance trade-off curve. p405
+
+<P>But the newer, over-parameterized regime, which results in the second descent, is barely understood, mathematically speaking. 
+"We now have at least a map. In this part of the world, there is some sort of <em>terra incognita</em>. We don't know what is really going on there," Belkin told me. p406
+
+<P>In fact, much of this book has celebrated the fact that traditional machine has had a base of well-understood mathematical principles, but deep neural 
+networks - especially the massive networks we see today - have upset this applecart. p406
+
+<P>Is Minerva simply regurgitating text based on correlations in the training data? Or is it reasoning?
+The debate is raging, and no clear answers are forthcoming. p413
 
 
 
@@ -493,7 +512,7 @@ not generalize well to unseen test data. Yet they do. Standard ML theory can no 
 
 
 
-<h2>Some Widely Cited Papers/Articles</h2>
+<h2>Some Papers/Articles</h2>
 <ul> 
 
  <li>Rumelhart, D., Hinton, G. & Williams, R. <em><a href='https://doi.org/10.1038/323533a0'>Learning representations by back-propagating errors</a>.</em> Nature 323, 533–536 (1986). 
@@ -508,6 +527,7 @@ not generalize well to unseen test data. Yet they do. Standard ML theory can no 
   <li><a href='https://dl.acm.org/doi/10.1145/3065386'>AlexNet</a> 2012. An early success with deep learning.
   <li><a href='https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf'>The Bitter Lesson</a>, an article by Rich Sutton: in the long run, learning and search beat expert systems.
   <li>Hopfield, 1982. <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC346238/'>Neural networks and physical systems with emergent collective computational abilities</a>.
+  <li><a href='https://arxiv.org/abs/1611.03530'>Understanding deep learning requires rethinking generalization</a> (double descent)
 </ul>
 
 
